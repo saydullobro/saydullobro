@@ -58,6 +58,35 @@ Currently at **[Aros.uz](https://aros.uz)**, owning backend architecture and dep
 
 ---
 
+### 🌍 Open source
+
+<table>
+  <tr>
+    <td>
+      <h4>🔌 <a href="https://github.com/publichost-run/publichost">PublicHost</a></h4>
+      <p>Self-hosted HTTPS tunnels over plain SSH. No client install, no signup: expose <code>localhost</code> on your own domain with one command.</p>
+      <pre><code>ssh -p 2222 -R 0:localhost:3000 tunnel.example.com</code></pre>
+      <ul>
+        <li>🔒 Automatic HTTPS with a Let's Encrypt wildcard certificate</li>
+        <li>🦊 Random readable subdomains (<code>swift-fox-123</code>), released when the session ends</li>
+        <li>🔍 WebLogs: live request inspector in the browser</li>
+        <li>🛡️ Abuse protection, WebSocket / SSE / streaming pass-through</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/github/license/publichost-run/publichost?style=flat-square" alt="License" />
+        <img src="https://img.shields.io/github/stars/publichost-run/publichost?style=flat-square" alt="Stars" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 💼 Experience
 
 **Backend Developer** — [Aros.uz](https://aros.uz) · *Apr 2024 – Present*
