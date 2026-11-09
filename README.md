@@ -33,7 +33,7 @@ Currently at **[Aros.uz](https://aros.uz)**, owning backend architecture and dep
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,django,fastapi,postgres,redis,rabbitmq&theme=dark" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,ubuntu,gitlab,git,githubactions&theme=dark" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,k8s,aws,nginx,linux,ubuntu,gitlab,git,githubactions&theme=dark" alt="DevOps" />
 </p>
 
 | Area | Tools |
